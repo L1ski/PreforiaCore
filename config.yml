@@ -1,0 +1,17 @@
+Modules:
+  Gamemode: false
+  Sit: false
+  Tp: false
+  Formats: false
+  Invsee: false
+  Vanish: false
+  Nametags: false
+  Homes: false
+  Worldguard: false
+  Diamondradar: false
+  Spawn: false
+ProtectedWorlds: 
+Suomi:
+  reverse: false
+  fullworldsecure: true
+  

@@ -1,0 +1,67 @@
+main: preforia.api.Main
+name: PreforiaCore
+description: PreforiaCore.
+depend: [LuckPerms]
+author: L1ski
+version: 1.0
+api-version: 1.15
+
+commands:
+  gamemode:
+  sit:
+  tp:
+  setspawn:
+  inv:
+    aliases: [invsee, inv]
+  delspawn:
+  setzone:
+  delzone:
+  reversesuoja:
+  wand:
+  suojaakaikki:
+  give:
+  vanish:
+  home:
+  sethome:
+  delhome:
+  homes:
+  protectworld:
+  tphome:
+  spawnloot:
+  diamondradar:
+    aliases: [dr, radar]
+  tpa:
+  tpaaccept:
+  tpadeny:
+  rtp:
+permissions:
+  diamondradar:
+    permission: suomi.diamondradar
+  homes:
+    permission: suomi.managehomes
+  sit:
+    permission: suomi.sit
+  gamemode:
+    permission: suomi.gamemode
+  tp:
+    permission: suomi.tp
+  setspawn:
+    permission: suomi.setspawn
+  delspawn:
+    permission: suomi.delspawn
+  inv:
+    permission: suomi.invsee
+  setzone:
+    permission: suomi.worldguard
+  delzone:
+    permission: suomi.worldguard
+  wand:
+    permission: suomi.worldguard
+  reversesuoja:
+    permission: suomi.worldguard
+  suojaakaikki:
+    permission: suomi.worldguard
+  give:
+    permission: suomi.give
+  vanish:
+    permission: suomi.vanish
